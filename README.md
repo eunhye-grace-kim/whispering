@@ -1,2 +1,2 @@
 # whispering
-whispering project
+whispering project by Eunhye Kim
